@@ -26,6 +26,6 @@ $ roslanch led_binary_number .launch
 
 ```
 ## 回路図
-![回路図](https://user-images.githubusercontent.com/58972086/71590667-c03e6b80-2b6c-11ea-9650-4bd7a2052478.PNG)
+
 
 ## 参考文献
