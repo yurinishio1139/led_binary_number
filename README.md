@@ -17,7 +17,7 @@ robosys_kadai2
 * 実行方法
 ```
 $ cd ~/catkin/src
-$ git clone https://github.com/yurinishio1139/.git
+$ git clone https://github.com/yurinishio1139/led_binary_number.git
 $ cd ..
 $ catkin_make
 $ cd src/led_binary_number/myled/
