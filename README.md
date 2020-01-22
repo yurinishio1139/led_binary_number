@@ -22,7 +22,8 @@ $ cd ..
 $ catkin_make
 $ cd src/led_binary_number/myled/
 $ bash setup bash
-$ roslanch led_binary_number number.launch
+$ roslanch led_binary_number led.launch
+
 
 ```
 ## 回路図
